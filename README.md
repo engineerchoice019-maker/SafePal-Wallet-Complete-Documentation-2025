@@ -12,7 +12,7 @@
 - **[Is SafePal Wallet Safe? Security Analysis](https://icsa.global/sites/default/files/IsSafePalWalletSafE%40.pdf)** ⭐⭐⭐
 
 ---
-
+ 
 ## 📚 Complete Documentation Library
 
 ### 🔑 Account Recovery & Access
